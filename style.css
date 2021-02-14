@@ -1,0 +1,77 @@
+#vaping {
+  color: rgb(0, 180, 0);
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+#establisher {
+  color: rgb(255, 191, 0);
+  margin-left: 20px;
+  margin-right: 20px;
+  text-align: center;
+}
+
+.contents {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+a:hover {
+  background-color: rgb(180, 180, 180);
+}
+
+.links {
+  margin-left: 20px;
+  margin-right: 20px;
+  font-size: 15px;
+  font-weight: lighter;
+}
+
+#youth-vaping {
+  position: absolute;
+  left: 500px;
+  top: 130px;
+  border: 10px ridge red;
+  width: 400px;
+}
+
+#introduction-and-statistics,
+#ways-youth-get-addicted,
+#availability,
+#roles-of-responsibilities-for-everyone,
+#how-parents-can-help,
+#how-schools-can-help,
+#how-communities-can-help,
+#government-actions,
+#conclusion {
+  color: red;
+  font-family: sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: 900;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+
+.pictures-1 {
+  width: 125px;
+  margin-left: 20px;
+  margin-right: 20px;
+  float: right;
+}
+
+.pictures-2 {
+  width: 125px;
+  margin-left: 20px;
+  margin-right: 20px; float: left;
+}
+
+.paragraph {
+  font-family: Helvetica;
+  margin-left: 20px;
+  margin-right: 20px;
+  font-weight: 500;
+}
